@@ -37,7 +37,7 @@ yarn build
 Launch.json enable debug
 
 ```
-{
+        {
             "name": "Strapi v4 Debug",
             "type": "node",
             "request": "launch",
